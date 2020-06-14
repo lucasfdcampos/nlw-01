@@ -50,7 +50,7 @@ const Home = () => {
               style={styles.input}
               placeholder="Digite a cidade"
               autoCorrect={false}
-              valur={city}
+              value={city}
               onChangeText={setCity}
             />
 
